@@ -2,4 +2,15 @@ Add the file to Git and Github
 : git add filename
 : git add .
 : git commit -m ""[Dfilename"
+: git push origin mainAdd the file to Git and Github
+: git add filename
+: git add .
+: git commit -m filename
+: git push origin main
+Add the file to Git and Github
+:git add filename
+Add the file to Git and Github
+: git add filename
+: git add .
+: git commit -m filename
 : git push origin main
